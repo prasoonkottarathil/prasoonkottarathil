@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am the artist who transforms numbers into meaning and code into vision. My journey in Deep Learning and Computer Vision is not just a career, it’s a quest to uncover beauty where others see chaos.<br><br>Each I seek elegance in code, poetry in patterns, and beauty in complexity.<br><br>When machines learn to see the world, do they reflect our vision, or reveal a new one?
+I am the artist who transforms numbers into meaning and code into vision.<br><br>My journey in Deep Learning and Computer Vision is not just a career, it’s a quest to uncover beauty where others see chaos.<br><br>Each I seek elegance in code, poetry in patterns, and beauty in complexity.<br><br>Through this exploration, one question continues to captivate me:<br><br>When machines learn to see the world, do they reflect our vision, or reveal a new one?
 
 
 ## 🌐 Socials:
